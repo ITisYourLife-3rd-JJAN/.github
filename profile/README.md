@@ -1,5 +1,5 @@
 # KB IT's Your Life 3기 : 1반 5조 (우수 프로젝트 선정✨) 
-![mockrocket-capture](https://github.com/ITisYourLife-3rd-JJAN/JJANsuni-frontend/assets/52391627/fa2397f6-5ef1-49e1-a991-9589c5748f41)
+![jjan순이mockup](https://github.com/ITisYourLife-3rd-JJAN/JJANsuni-frontend/assets/52391627/7fdf4bdc-9a89-4fc1-ab61-ad1924301cd5)
 
 ---
 # 💰짠순이의 경제여행
