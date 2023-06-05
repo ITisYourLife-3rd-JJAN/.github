@@ -1,3 +1,5 @@
+# KB IT's Your Life 3기 : 1반 5조 (우수 프로젝트 선정✨) 
+---
 # 💰짠순이의 경제여행
 
 > 1. 기획 의도
@@ -155,9 +157,10 @@
 
 
 ### 9. 회고록
+| Name    | 노승욱   |  안수빈   | 전지수  |  정길연    |
+| ------- | -------| ---------| ----- | -------- | 
+| Profile | <img width="200px" src="https://avatars.githubusercontent.com/u/127372528?v=4">    | <img width="200px" src="https://avatars.githubusercontent.com/u/81276634?v=4" />  | <img width="200px" src="https://avatars.githubusercontent.com/u/82080962?v=4"/>    | <img width="200px" src="https://avatars.githubusercontent.com/u/52391627?v=4">  |
+| Role    | Team Leader, 회원 관련 기능 | 이체, ChatGPT 기능 | 자동이체 기능  | 미션 풀이 관련 기능 |
+| gitHub  | [SeungukNoh](https://github.com/SeungukNoh) | [richsubin](https://github.com/richsubin)   | [zyyyyyysoo](https://github.com/zyyyyyysoo)    |  [gilyeon00](https://github.com/gilyeon00) |
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| 안수빈 | 노승욱 | 전지수 | 정길연 |
-|     |     |     |     |
 
